@@ -1,0 +1,4988 @@
+{
+ "days": [
+  {
+   "date": "2026-05-11",
+   "day": "Mon",
+   "segmentCount": 34,
+   "emotionCounts": {
+    "tiredness": 1,
+    "annoyance": 1,
+    "distress": 1,
+    "frustration": 2,
+    "concentration": 2,
+    "determination": 4,
+    "hope": 2,
+    "anxiety": 1,
+    "contentment": 1,
+    "love": 1,
+    "gratitude": 1,
+    "excitement": 1
+   },
+   "dominantEmotion": "determination",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 101.1,
+     "loudness": -24.5,
+     "prosody": 0.28,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 107.8,
+     "loudness": -23.6,
+     "prosody": 0.3,
+     "speakingRate": 4.03,
+     "count": 4
+    },
+    {
+     "hour": 8,
+     "pitch": 122,
+     "loudness": -21.5,
+     "prosody": 0.33,
+     "speakingRate": 5.1,
+     "count": 3
+    },
+    {
+     "hour": 9,
+     "pitch": 120.3,
+     "loudness": -22.5,
+     "prosody": 0.42,
+     "speakingRate": 4.43,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 108.8,
+     "loudness": -22.9,
+     "prosody": 0.3,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 109.4,
+     "loudness": -24.1,
+     "prosody": 0.33,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 114.8,
+     "loudness": -24.8,
+     "prosody": 0.34,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 112.8,
+     "loudness": -22.4,
+     "prosody": 0.42,
+     "speakingRate": 4.93,
+     "count": 3
+    },
+    {
+     "hour": 14,
+     "pitch": 115.2,
+     "loudness": -24.8,
+     "prosody": 0.29,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 116.7,
+     "loudness": -23.2,
+     "prosody": 0.33,
+     "speakingRate": 4.6,
+     "count": 1
+    },
+    {
+     "hour": 16,
+     "pitch": 110.9,
+     "loudness": -22.6,
+     "prosody": 0.34,
+     "speakingRate": 3.9,
+     "count": 3
+    },
+    {
+     "hour": 17,
+     "pitch": 103.9,
+     "loudness": -23.3,
+     "prosody": 0.33,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 104.3,
+     "loudness": -24.7,
+     "prosody": 0.3,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 121.9,
+     "loudness": -24.9,
+     "prosody": 0.4,
+     "speakingRate": 4.6,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 117.9,
+     "loudness": -24.5,
+     "prosody": 0.3,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 102.8,
+     "loudness": -24.3,
+     "prosody": 0.34,
+     "speakingRate": 3.55,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.34,
+   "meanPitch": 112.3
+  },
+  {
+   "date": "2026-05-12",
+   "day": "Tue",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "tiredness": 2,
+    "boredom": 1,
+    "sadness": 1,
+    "excitement": 2,
+    "enthusiasm": 1,
+    "joy": 1,
+    "frustration": 1,
+    "concentration": 1,
+    "determination": 2,
+    "hope": 1,
+    "annoyance": 1,
+    "distress": 1
+   },
+   "dominantEmotion": "tiredness",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 97.4,
+     "loudness": -27.7,
+     "prosody": 0.1,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 106.3,
+     "loudness": -23.7,
+     "prosody": 0.28,
+     "speakingRate": 4.53,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 105.3,
+     "loudness": -23.5,
+     "prosody": 0.34,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 121.5,
+     "loudness": -21.8,
+     "prosody": 0.44,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 110.2,
+     "loudness": -24.1,
+     "prosody": 0.34,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 119.5,
+     "loudness": -23.6,
+     "prosody": 0.44,
+     "speakingRate": 4.93,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 106.5,
+     "loudness": -24.6,
+     "prosody": 0.33,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 108.1,
+     "loudness": -24.9,
+     "prosody": 0.38,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 115.6,
+     "loudness": -20.7,
+     "prosody": 0.43,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 15,
+     "pitch": 113.7,
+     "loudness": -23.8,
+     "prosody": 0.39,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 116.6,
+     "loudness": -23.8,
+     "prosody": 0.31,
+     "speakingRate": 4.27,
+     "count": 3
+    },
+    {
+     "hour": 17,
+     "pitch": 111,
+     "loudness": -24.9,
+     "prosody": 0.26,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 116,
+     "loudness": -22,
+     "prosody": 0.35,
+     "speakingRate": 4.3,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 120.8,
+     "loudness": -24,
+     "prosody": 0.33,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 115.3,
+     "loudness": -23.4,
+     "prosody": 0.42,
+     "speakingRate": 5,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 104,
+     "loudness": -27.4,
+     "prosody": 0.24,
+     "speakingRate": 3.5,
+     "count": 1
+    },
+    {
+     "hour": 22,
+     "pitch": 97.4,
+     "loudness": -27,
+     "prosody": 0.2,
+     "speakingRate": 3.1,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.34,
+   "meanPitch": 112.1
+  },
+  {
+   "date": "2026-05-13",
+   "day": "Wed",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "tiredness": 1,
+    "boredom": 1,
+    "sadness": 1,
+    "relief": 2,
+    "satisfaction": 1,
+    "determination": 1,
+    "excitement": 1,
+    "admiration": 1,
+    "gratitude": 3,
+    "contentment": 2,
+    "love": 1
+   },
+   "dominantEmotion": "gratitude",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 96.8,
+     "loudness": -27.1,
+     "prosody": 0.19,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 105.3,
+     "loudness": -27,
+     "prosody": 0.29,
+     "speakingRate": 3.9,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 112.7,
+     "loudness": -23.8,
+     "prosody": 0.33,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 9,
+     "pitch": 107.5,
+     "loudness": -22.2,
+     "prosody": 0.41,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 104.8,
+     "loudness": -24.8,
+     "prosody": 0.33,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 121.2,
+     "loudness": -21.6,
+     "prosody": 0.45,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 111.6,
+     "loudness": -23.7,
+     "prosody": 0.37,
+     "speakingRate": 4.7,
+     "count": 3
+    },
+    {
+     "hour": 13,
+     "pitch": 112.4,
+     "loudness": -24.8,
+     "prosody": 0.33,
+     "speakingRate": 4.3,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 112,
+     "loudness": -25.8,
+     "prosody": 0.34,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 116.5,
+     "loudness": -22.4,
+     "prosody": 0.32,
+     "speakingRate": 4.63,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 110.7,
+     "loudness": -24.9,
+     "prosody": 0.33,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 116.3,
+     "loudness": -25.6,
+     "prosody": 0.34,
+     "speakingRate": 4.85,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 114.9,
+     "loudness": -21.3,
+     "prosody": 0.38,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 112.8,
+     "loudness": -23.2,
+     "prosody": 0.43,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 105.7,
+     "loudness": -25.4,
+     "prosody": 0.3,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 103.8,
+     "loudness": -26,
+     "prosody": 0.24,
+     "speakingRate": 3.45,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 111.4
+  },
+  {
+   "date": "2026-05-14",
+   "day": "Thu",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "tiredness": 2,
+    "annoyance": 1,
+    "distress": 1,
+    "relief": 1,
+    "satisfaction": 1,
+    "pride": 2,
+    "joy": 1,
+    "excitement": 1,
+    "tenderness": 1,
+    "sadness": 2,
+    "love": 1,
+    "boredom": 1
+   },
+   "dominantEmotion": "tiredness",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 100.3,
+     "loudness": -26.3,
+     "prosody": 0.13,
+     "speakingRate": 3.2,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 112.2,
+     "loudness": -25.6,
+     "prosody": 0.32,
+     "speakingRate": 4.33,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 105.8,
+     "loudness": -23.2,
+     "prosody": 0.3,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 111.8,
+     "loudness": -23.6,
+     "prosody": 0.37,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 115.4,
+     "loudness": -20.8,
+     "prosody": 0.44,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 108.2,
+     "loudness": -26.7,
+     "prosody": 0.35,
+     "speakingRate": 4.6,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 110,
+     "loudness": -22.9,
+     "prosody": 0.38,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 118.1,
+     "loudness": -23.5,
+     "prosody": 0.26,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 14,
+     "pitch": 121.7,
+     "loudness": -20.5,
+     "prosody": 0.43,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 114.4,
+     "loudness": -24.4,
+     "prosody": 0.41,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 107.7,
+     "loudness": -25.6,
+     "prosody": 0.35,
+     "speakingRate": 4.5,
+     "count": 4
+    },
+    {
+     "hour": 18,
+     "pitch": 113.4,
+     "loudness": -21,
+     "prosody": 0.45,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 105.3,
+     "loudness": -23.9,
+     "prosody": 0.33,
+     "speakingRate": 3.6,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 105.1,
+     "loudness": -25.2,
+     "prosody": 0.33,
+     "speakingRate": 3.67,
+     "count": 3
+    },
+    {
+     "hour": 22,
+     "pitch": 107.8,
+     "loudness": -26.6,
+     "prosody": 0.45,
+     "speakingRate": 3.7,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 110.7
+  },
+  {
+   "date": "2026-05-15",
+   "day": "Fri",
+   "segmentCount": 31,
+   "emotionCounts": {
+    "hope": 1,
+    "excitement": 1,
+    "determination": 2,
+    "disappointment": 1,
+    "frustration": 1,
+    "contentment": 2,
+    "amusement": 1,
+    "love": 2,
+    "relief": 1
+   },
+   "dominantEmotion": "determination",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 108.5,
+     "loudness": -22.2,
+     "prosody": 0.35,
+     "speakingRate": 4.3,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 114.8,
+     "loudness": -23.1,
+     "prosody": 0.42,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 112.5,
+     "loudness": -24.6,
+     "prosody": 0.34,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 113,
+     "loudness": -22.3,
+     "prosody": 0.34,
+     "speakingRate": 4.63,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 120.2,
+     "loudness": -21.1,
+     "prosody": 0.44,
+     "speakingRate": 4.9,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 109.9,
+     "loudness": -25.1,
+     "prosody": 0.28,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 112.9,
+     "loudness": -24,
+     "prosody": 0.34,
+     "speakingRate": 4.07,
+     "count": 3
+    },
+    {
+     "hour": 13,
+     "pitch": 109.4,
+     "loudness": -23.5,
+     "prosody": 0.35,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 113.3,
+     "loudness": -24.9,
+     "prosody": 0.38,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 110.3,
+     "loudness": -23.6,
+     "prosody": 0.32,
+     "speakingRate": 5.1,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 119.1,
+     "loudness": -24.6,
+     "prosody": 0.32,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 17,
+     "pitch": 104.1,
+     "loudness": -23.9,
+     "prosody": 0.45,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 108.3,
+     "loudness": -21.2,
+     "prosody": 0.44,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 112.3,
+     "loudness": -24.1,
+     "prosody": 0.26,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 101.6,
+     "loudness": -25.8,
+     "prosody": 0.2,
+     "speakingRate": 3.3,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.34,
+   "meanPitch": 111.9
+  },
+  {
+   "date": "2026-05-16",
+   "day": "Sat",
+   "segmentCount": 24,
+   "emotionCounts": {
+    "contentment": 8,
+    "relief": 2,
+    "gratitude": 3,
+    "joy": 2,
+    "love": 6,
+    "amusement": 2,
+    "tenderness": 2,
+    "nostalgia": 1,
+    "calmness": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 111.2,
+     "loudness": -23.9,
+     "prosody": 0.44,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 103,
+     "loudness": -25.5,
+     "prosody": 0.34,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 112,
+     "loudness": -23.5,
+     "prosody": 0.41,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 111.8,
+     "loudness": -22.7,
+     "prosody": 0.39,
+     "speakingRate": 4.3,
+     "count": 1
+    },
+    {
+     "hour": 11,
+     "pitch": 118.2,
+     "loudness": -22.7,
+     "prosody": 0.47,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 103.2,
+     "loudness": -21,
+     "prosody": 0.36,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 115,
+     "loudness": -25.2,
+     "prosody": 0.42,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 125.4,
+     "loudness": -24.4,
+     "prosody": 0.37,
+     "speakingRate": 5,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 114.1,
+     "loudness": -23.9,
+     "prosody": 0.35,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 16,
+     "pitch": 97.9,
+     "loudness": -22.2,
+     "prosody": 0.43,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 107.8,
+     "loudness": -22.7,
+     "prosody": 0.46,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 111,
+     "loudness": -24,
+     "prosody": 0.45,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 109.9,
+     "loudness": -25.6,
+     "prosody": 0.3,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 107.9,
+     "loudness": -22.9,
+     "prosody": 0.54,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 105.2,
+     "loudness": -26.9,
+     "prosody": 0.33,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 87.6,
+     "loudness": -30.4,
+     "prosody": 0.22,
+     "speakingRate": 3.1,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.4,
+   "meanPitch": 109.3
+  },
+  {
+   "date": "2026-05-17",
+   "day": "Sun",
+   "segmentCount": 24,
+   "emotionCounts": {
+    "contentment": 5,
+    "relief": 3,
+    "gratitude": 3,
+    "determination": 1,
+    "hope": 1,
+    "excitement": 1,
+    "amusement": 1,
+    "love": 2,
+    "calmness": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 9,
+     "pitch": 113.1,
+     "loudness": -23.6,
+     "prosody": 0.34,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 115.1,
+     "loudness": -23.5,
+     "prosody": 0.42,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 115.3,
+     "loudness": -21.5,
+     "prosody": 0.43,
+     "speakingRate": 4.3,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 110,
+     "loudness": -24.1,
+     "prosody": 0.41,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 112.7,
+     "loudness": -25.4,
+     "prosody": 0.32,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 101.7,
+     "loudness": -26.8,
+     "prosody": 0.32,
+     "speakingRate": 2.8,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 107.6,
+     "loudness": -24.5,
+     "prosody": 0.38,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 112.8,
+     "loudness": -23.5,
+     "prosody": 0.41,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 103.5,
+     "loudness": -21.5,
+     "prosody": 0.31,
+     "speakingRate": 4.3,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 109.3,
+     "loudness": -24.6,
+     "prosody": 0.36,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 111.5,
+     "loudness": -23.8,
+     "prosody": 0.45,
+     "speakingRate": 3,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 115.9,
+     "loudness": -24.2,
+     "prosody": 0.4,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 105.2,
+     "loudness": -26.3,
+     "prosody": 0.34,
+     "speakingRate": 3.7,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.38,
+   "meanPitch": 111.1
+  },
+  {
+   "date": "2026-05-18",
+   "day": "Mon",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "tiredness": 1,
+    "annoyance": 2,
+    "distress": 2,
+    "frustration": 1,
+    "hope": 1,
+    "determination": 1,
+    "excitement": 1
+   },
+   "dominantEmotion": "annoyance",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 91.4,
+     "loudness": -25.9,
+     "prosody": 0.2,
+     "speakingRate": 2.8,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 112.9,
+     "loudness": -22.7,
+     "prosody": 0.36,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 111.9,
+     "loudness": -24,
+     "prosody": 0.32,
+     "speakingRate": 4.17,
+     "count": 3
+    },
+    {
+     "hour": 9,
+     "pitch": 108.5,
+     "loudness": -23.4,
+     "prosody": 0.35,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 112.2,
+     "loudness": -24.9,
+     "prosody": 0.38,
+     "speakingRate": 4,
+     "count": 3
+    },
+    {
+     "hour": 11,
+     "pitch": 115.8,
+     "loudness": -24.4,
+     "prosody": 0.29,
+     "speakingRate": 4.8,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 113.8,
+     "loudness": -26.3,
+     "prosody": 0.3,
+     "speakingRate": 4.8,
+     "count": 3
+    },
+    {
+     "hour": 13,
+     "pitch": 110.6,
+     "loudness": -25,
+     "prosody": 0.4,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 108.3,
+     "loudness": -23.6,
+     "prosody": 0.38,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 113.4,
+     "loudness": -20.4,
+     "prosody": 0.35,
+     "speakingRate": 4.53,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 114.5,
+     "loudness": -24.3,
+     "prosody": 0.39,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 109,
+     "loudness": -24,
+     "prosody": 0.32,
+     "speakingRate": 4.9,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 117.3,
+     "loudness": -22.8,
+     "prosody": 0.37,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 109,
+     "loudness": -23.6,
+     "prosody": 0.35,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 116.4,
+     "loudness": -23.9,
+     "prosody": 0.36,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 103.2,
+     "loudness": -25.1,
+     "prosody": 0.32,
+     "speakingRate": 3.1,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.34,
+   "meanPitch": 111.5
+  },
+  {
+   "date": "2026-05-19",
+   "day": "Tue",
+   "segmentCount": 29,
+   "emotionCounts": {
+    "anxiety": 2,
+    "distress": 1,
+    "fear": 1,
+    "hope": 1,
+    "determination": 1,
+    "frustration": 3,
+    "annoyance": 3,
+    "disappointment": 2,
+    "concentration": 1
+   },
+   "dominantEmotion": "frustration",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 121.9,
+     "loudness": -21.4,
+     "prosody": 0.49,
+     "speakingRate": 5.03,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 108.4,
+     "loudness": -23.4,
+     "prosody": 0.34,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 114.7,
+     "loudness": -21.9,
+     "prosody": 0.35,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 116.8,
+     "loudness": -24.3,
+     "prosody": 0.27,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 123.5,
+     "loudness": -18.8,
+     "prosody": 0.52,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 110,
+     "loudness": -25,
+     "prosody": 0.36,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 112.3,
+     "loudness": -23.6,
+     "prosody": 0.35,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 15,
+     "pitch": 110.3,
+     "loudness": -23.5,
+     "prosody": 0.33,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 117.2,
+     "loudness": -21.4,
+     "prosody": 0.44,
+     "speakingRate": 4.67,
+     "count": 4
+    },
+    {
+     "hour": 17,
+     "pitch": 111.2,
+     "loudness": -24.8,
+     "prosody": 0.32,
+     "speakingRate": 4.9,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 111.7,
+     "loudness": -24.3,
+     "prosody": 0.31,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 110.3,
+     "loudness": -24.3,
+     "prosody": 0.31,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 98.9,
+     "loudness": -24.2,
+     "prosody": 0.5,
+     "speakingRate": 3.5,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 93.5,
+     "loudness": -30.3,
+     "prosody": 0.28,
+     "speakingRate": 3.3,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.38,
+   "meanPitch": 113.3
+  },
+  {
+   "date": "2026-05-20",
+   "day": "Wed",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "tiredness": 1,
+    "boredom": 1,
+    "sadness": 2,
+    "excitement": 1,
+    "joy": 1,
+    "pride": 1,
+    "tenderness": 1,
+    "love": 1
+   },
+   "dominantEmotion": "sadness",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 101,
+     "loudness": -27,
+     "prosody": 0.22,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 108.7,
+     "loudness": -24.8,
+     "prosody": 0.35,
+     "speakingRate": 4.13,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 111,
+     "loudness": -24,
+     "prosody": 0.36,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 112,
+     "loudness": -23.7,
+     "prosody": 0.42,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 117.9,
+     "loudness": -20.3,
+     "prosody": 0.42,
+     "speakingRate": 4.4,
+     "count": 3
+    },
+    {
+     "hour": 11,
+     "pitch": 106.6,
+     "loudness": -22.2,
+     "prosody": 0.4,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 113.8,
+     "loudness": -24,
+     "prosody": 0.29,
+     "speakingRate": 4.37,
+     "count": 3
+    },
+    {
+     "hour": 13,
+     "pitch": 108.1,
+     "loudness": -24.6,
+     "prosody": 0.33,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 114.2,
+     "loudness": -21.4,
+     "prosody": 0.44,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 113.2,
+     "loudness": -22.9,
+     "prosody": 0.32,
+     "speakingRate": 4.75,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 111.9,
+     "loudness": -24.6,
+     "prosody": 0.36,
+     "speakingRate": 4.53,
+     "count": 4
+    },
+    {
+     "hour": 17,
+     "pitch": 113.3,
+     "loudness": -24.5,
+     "prosody": 0.27,
+     "speakingRate": 4.8,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 109.6,
+     "loudness": -22.4,
+     "prosody": 0.57,
+     "speakingRate": 2.9,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 104,
+     "loudness": -23.9,
+     "prosody": 0.37,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 108.8,
+     "loudness": -22.4,
+     "prosody": 0.4,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 99,
+     "loudness": -26.8,
+     "prosody": 0.27,
+     "speakingRate": 3.4,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.36,
+   "meanPitch": 110.6
+  },
+  {
+   "date": "2026-05-21",
+   "day": "Thu",
+   "segmentCount": 28,
+   "emotionCounts": {
+    "anxiety": 2,
+    "concentration": 1,
+    "doubt": 1,
+    "hope": 3,
+    "determination": 2,
+    "excitement": 2,
+    "enthusiasm": 1
+   },
+   "dominantEmotion": "hope",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 120.4,
+     "loudness": -22,
+     "prosody": 0.47,
+     "speakingRate": 4.93,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 115.3,
+     "loudness": -24.3,
+     "prosody": 0.37,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 115.4,
+     "loudness": -22.7,
+     "prosody": 0.28,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 109.2,
+     "loudness": -25.1,
+     "prosody": 0.31,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 111.7,
+     "loudness": -23.4,
+     "prosody": 0.33,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 113.2,
+     "loudness": -23.3,
+     "prosody": 0.27,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 105.9,
+     "loudness": -23.4,
+     "prosody": 0.42,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 127.5,
+     "loudness": -19.9,
+     "prosody": 0.5,
+     "speakingRate": 4.85,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 106.5,
+     "loudness": -23.9,
+     "prosody": 0.33,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 107.6,
+     "loudness": -23.3,
+     "prosody": 0.32,
+     "speakingRate": 4.45,
+     "count": 4
+    },
+    {
+     "hour": 18,
+     "pitch": 112,
+     "loudness": -25.5,
+     "prosody": 0.35,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 117.2,
+     "loudness": -23.6,
+     "prosody": 0.34,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 105.9,
+     "loudness": -22.8,
+     "prosody": 0.49,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 101.8,
+     "loudness": -25.6,
+     "prosody": 0.32,
+     "speakingRate": 3.7,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.36,
+   "meanPitch": 112.7
+  },
+  {
+   "date": "2026-05-22",
+   "day": "Fri",
+   "segmentCount": 31,
+   "emotionCounts": {
+    "disappointment": 1,
+    "frustration": 1,
+    "determination": 1,
+    "contentment": 2,
+    "amusement": 1,
+    "love": 2,
+    "relief": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 115.4,
+     "loudness": -21.1,
+     "prosody": 0.25,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 113.7,
+     "loudness": -24.2,
+     "prosody": 0.32,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 110.7,
+     "loudness": -25,
+     "prosody": 0.32,
+     "speakingRate": 4.3,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 108.2,
+     "loudness": -24.7,
+     "prosody": 0.33,
+     "speakingRate": 4.47,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 117.6,
+     "loudness": -22.1,
+     "prosody": 0.54,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 113.4,
+     "loudness": -24.6,
+     "prosody": 0.36,
+     "speakingRate": 4.63,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 115.8,
+     "loudness": -24.8,
+     "prosody": 0.2,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 111.7,
+     "loudness": -24.6,
+     "prosody": 0.28,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 108.5,
+     "loudness": -23.6,
+     "prosody": 0.35,
+     "speakingRate": 4.33,
+     "count": 4
+    },
+    {
+     "hour": 15,
+     "pitch": 114.5,
+     "loudness": -24.9,
+     "prosody": 0.32,
+     "speakingRate": 4.3,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 110.1,
+     "loudness": -23.7,
+     "prosody": 0.29,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 114.9,
+     "loudness": -23.8,
+     "prosody": 0.36,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 105.1,
+     "loudness": -23.2,
+     "prosody": 0.41,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 100.5,
+     "loudness": -23.3,
+     "prosody": 0.25,
+     "speakingRate": 2.7,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 109.9,
+     "loudness": -22.2,
+     "prosody": 0.34,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 104.9,
+     "loudness": -26.9,
+     "prosody": 0.37,
+     "speakingRate": 3.6,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.33,
+   "meanPitch": 111.4
+  },
+  {
+   "date": "2026-05-23",
+   "day": "Sat",
+   "segmentCount": 23,
+   "emotionCounts": {
+    "contentment": 7,
+    "relief": 3,
+    "gratitude": 2,
+    "love": 5,
+    "amusement": 2,
+    "tenderness": 1,
+    "calmness": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 8,
+     "pitch": 107.6,
+     "loudness": -23.8,
+     "prosody": 0.28,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 111.8,
+     "loudness": -24.5,
+     "prosody": 0.4,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 115.7,
+     "loudness": -20.6,
+     "prosody": 0.43,
+     "speakingRate": 4.8,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 109.9,
+     "loudness": -23.7,
+     "prosody": 0.32,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 109.6,
+     "loudness": -19.4,
+     "prosody": 0.45,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 13,
+     "pitch": 107.8,
+     "loudness": -23,
+     "prosody": 0.48,
+     "speakingRate": 4.6,
+     "count": 1
+    },
+    {
+     "hour": 14,
+     "pitch": 105.8,
+     "loudness": -22.7,
+     "prosody": 0.37,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 111.5,
+     "loudness": -22.5,
+     "prosody": 0.43,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 113.8,
+     "loudness": -25.4,
+     "prosody": 0.35,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 106.8,
+     "loudness": -24.1,
+     "prosody": 0.48,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 109.1,
+     "loudness": -25,
+     "prosody": 0.32,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 104.1,
+     "loudness": -24.6,
+     "prosody": 0.36,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 105.3,
+     "loudness": -25.3,
+     "prosody": 0.37,
+     "speakingRate": 3.75,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.38,
+   "meanPitch": 109.4
+  },
+  {
+   "date": "2026-05-24",
+   "day": "Sun",
+   "segmentCount": 22,
+   "emotionCounts": {
+    "contentment": 4,
+    "relief": 1,
+    "gratitude": 2,
+    "tenderness": 2,
+    "love": 4,
+    "hope": 2,
+    "amusement": 1,
+    "calmness": 1,
+    "determination": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 9,
+     "pitch": 112.8,
+     "loudness": -22.1,
+     "prosody": 0.4,
+     "speakingRate": 3.4,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 111.4,
+     "loudness": -25,
+     "prosody": 0.42,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 115.1,
+     "loudness": -22.7,
+     "prosody": 0.34,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 113.1,
+     "loudness": -23.8,
+     "prosody": 0.37,
+     "speakingRate": 4.6,
+     "count": 1
+    },
+    {
+     "hour": 13,
+     "pitch": 97.6,
+     "loudness": -22.9,
+     "prosody": 0.35,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 14,
+     "pitch": 105.7,
+     "loudness": -23.4,
+     "prosody": 0.35,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 106.9,
+     "loudness": -24.5,
+     "prosody": 0.39,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 16,
+     "pitch": 107.3,
+     "loudness": -22.4,
+     "prosody": 0.46,
+     "speakingRate": 4.9,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 103.2,
+     "loudness": -24.1,
+     "prosody": 0.4,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 117.9,
+     "loudness": -26.1,
+     "prosody": 0.61,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 102,
+     "loudness": -22.6,
+     "prosody": 0.41,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 113.2,
+     "loudness": -24.9,
+     "prosody": 0.41,
+     "speakingRate": 3.7,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 117.9,
+     "loudness": -22,
+     "prosody": 0.33,
+     "speakingRate": 4.33,
+     "count": 3
+    },
+    {
+     "hour": 22,
+     "pitch": 106.1,
+     "loudness": -26.9,
+     "prosody": 0.28,
+     "speakingRate": 3.95,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.38,
+   "meanPitch": 110.6
+  },
+  {
+   "date": "2026-05-25",
+   "day": "Mon",
+   "segmentCount": 24,
+   "emotionCounts": {
+    "determination": 1,
+    "hope": 1,
+    "excitement": 1,
+    "contentment": 2,
+    "relief": 1,
+    "gratitude": 1,
+    "amusement": 1,
+    "love": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 8,
+     "pitch": 110.5,
+     "loudness": -23.5,
+     "prosody": 0.36,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 109.7,
+     "loudness": -25.4,
+     "prosody": 0.33,
+     "speakingRate": 4.33,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 120.8,
+     "loudness": -22.5,
+     "prosody": 0.38,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 120.4,
+     "loudness": -21.6,
+     "prosody": 0.35,
+     "speakingRate": 5,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 109.2,
+     "loudness": -24.4,
+     "prosody": 0.33,
+     "speakingRate": 4.75,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 103,
+     "loudness": -25.7,
+     "prosody": 0.4,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 14,
+     "pitch": 108.5,
+     "loudness": -22.5,
+     "prosody": 0.47,
+     "speakingRate": 3.5,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 111.6,
+     "loudness": -22.1,
+     "prosody": 0.41,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 16,
+     "pitch": 110.6,
+     "loudness": -24,
+     "prosody": 0.42,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 106,
+     "loudness": -19.6,
+     "prosody": 0.22,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 116.5,
+     "loudness": -22.4,
+     "prosody": 0.34,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 109.1,
+     "loudness": -22.6,
+     "prosody": 0.42,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 115,
+     "loudness": -23.5,
+     "prosody": 0.32,
+     "speakingRate": 3.6,
+     "count": 3
+    },
+    {
+     "hour": 21,
+     "pitch": 107.1,
+     "loudness": -27.2,
+     "prosody": 0.24,
+     "speakingRate": 3.7,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 112.2
+  },
+  {
+   "date": "2026-05-26",
+   "day": "Tue",
+   "segmentCount": 29,
+   "emotionCounts": {
+    "relief": 1,
+    "satisfaction": 1,
+    "gratitude": 1,
+    "determination": 2,
+    "hope": 2,
+    "anxiety": 2
+   },
+   "dominantEmotion": "determination",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 108.2,
+     "loudness": -22.6,
+     "prosody": 0.28,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 124.7,
+     "loudness": -22.4,
+     "prosody": 0.47,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 119.4,
+     "loudness": -24,
+     "prosody": 0.29,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 113.4,
+     "loudness": -23.5,
+     "prosody": 0.27,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 118.6,
+     "loudness": -23,
+     "prosody": 0.47,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 110.1,
+     "loudness": -25.7,
+     "prosody": 0.3,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 119.5,
+     "loudness": -23.6,
+     "prosody": 0.36,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 104.6,
+     "loudness": -24.9,
+     "prosody": 0.35,
+     "speakingRate": 4.3,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 118.2,
+     "loudness": -22.5,
+     "prosody": 0.42,
+     "speakingRate": 5.07,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 112,
+     "loudness": -24.4,
+     "prosody": 0.33,
+     "speakingRate": 4.27,
+     "count": 3
+    },
+    {
+     "hour": 17,
+     "pitch": 111.3,
+     "loudness": -24.5,
+     "prosody": 0.27,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 114.2,
+     "loudness": -24.4,
+     "prosody": 0.33,
+     "speakingRate": 4.9,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 105.8,
+     "loudness": -23.6,
+     "prosody": 0.5,
+     "speakingRate": 3.6,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 98.5,
+     "loudness": -25.2,
+     "prosody": 0.4,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 107.7,
+     "loudness": -26,
+     "prosody": 0.3,
+     "speakingRate": 3.65,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 112.9
+  },
+  {
+   "date": "2026-05-27",
+   "day": "Wed",
+   "segmentCount": 30,
+   "emotionCounts": {
+    "frustration": 5,
+    "confusion": 3,
+    "annoyance": 2,
+    "concentration": 2,
+    "determination": 2,
+    "anxiety": 1
+   },
+   "dominantEmotion": "frustration",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 114,
+     "loudness": -24.5,
+     "prosody": 0.29,
+     "speakingRate": 4.1,
+     "count": 4
+    },
+    {
+     "hour": 8,
+     "pitch": 112.3,
+     "loudness": -25.6,
+     "prosody": 0.3,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 111,
+     "loudness": -23.4,
+     "prosody": 0.32,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 129.3,
+     "loudness": -17.6,
+     "prosody": 0.52,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 110.6,
+     "loudness": -24.6,
+     "prosody": 0.32,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 113.3,
+     "loudness": -21.5,
+     "prosody": 0.42,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 111.9,
+     "loudness": -24.6,
+     "prosody": 0.38,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 111.6,
+     "loudness": -25.1,
+     "prosody": 0.4,
+     "speakingRate": 3.9,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 116,
+     "loudness": -20.1,
+     "prosody": 0.44,
+     "speakingRate": 4.5,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 118.1,
+     "loudness": -21.6,
+     "prosody": 0.45,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 114.6,
+     "loudness": -25.8,
+     "prosody": 0.29,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 110.1,
+     "loudness": -25.2,
+     "prosody": 0.39,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 105.8,
+     "loudness": -22.3,
+     "prosody": 0.39,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 109.5,
+     "loudness": -23.8,
+     "prosody": 0.32,
+     "speakingRate": 3.75,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 111.6,
+     "loudness": -29.4,
+     "prosody": 0.16,
+     "speakingRate": 3,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.36,
+   "meanPitch": 113.8
+  },
+  {
+   "date": "2026-05-28",
+   "day": "Thu",
+   "segmentCount": 28,
+   "emotionCounts": {
+    "frustration": 1,
+    "annoyance": 1,
+    "concentration": 1,
+    "tenderness": 2,
+    "sadness": 2,
+    "love": 1,
+    "hope": 1
+   },
+   "dominantEmotion": "tenderness",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 112.5,
+     "loudness": -24,
+     "prosody": 0.38,
+     "speakingRate": 4.38,
+     "count": 4
+    },
+    {
+     "hour": 8,
+     "pitch": 125,
+     "loudness": -18.3,
+     "prosody": 0.48,
+     "speakingRate": 4.8,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 111.4,
+     "loudness": -23.4,
+     "prosody": 0.31,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 109.5,
+     "loudness": -24.3,
+     "prosody": 0.37,
+     "speakingRate": 4.17,
+     "count": 3
+    },
+    {
+     "hour": 11,
+     "pitch": 110.3,
+     "loudness": -24.8,
+     "prosody": 0.4,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 110.3,
+     "loudness": -25.2,
+     "prosody": 0.29,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 104.8,
+     "loudness": -23.9,
+     "prosody": 0.29,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 114,
+     "loudness": -23.8,
+     "prosody": 0.34,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 111.3,
+     "loudness": -23.3,
+     "prosody": 0.35,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 110.8,
+     "loudness": -24.6,
+     "prosody": 0.34,
+     "speakingRate": 4.3,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 108,
+     "loudness": -22.7,
+     "prosody": 0.39,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 111.8,
+     "loudness": -22.1,
+     "prosody": 0.52,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 105,
+     "loudness": -24,
+     "prosody": 0.38,
+     "speakingRate": 3.5,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 110.4,
+     "loudness": -25,
+     "prosody": 0.31,
+     "speakingRate": 4,
+     "count": 3
+    },
+    {
+     "hour": 22,
+     "pitch": 105.3,
+     "loudness": -25.1,
+     "prosody": 0.15,
+     "speakingRate": 2.7,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 110.7
+  },
+  {
+   "date": "2026-05-29",
+   "day": "Fri",
+   "segmentCount": 29,
+   "emotionCounts": {
+    "determination": 2,
+    "hope": 1,
+    "concentration": 1,
+    "relief": 2,
+    "satisfaction": 1,
+    "contentment": 1,
+    "pride": 1
+   },
+   "dominantEmotion": "determination",
+   "hourly": [
+    {
+     "hour": 7,
+     "pitch": 103.6,
+     "loudness": -24.7,
+     "prosody": 0.28,
+     "speakingRate": 4.03,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 111.9,
+     "loudness": -23.5,
+     "prosody": 0.39,
+     "speakingRate": 4.3,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 133.9,
+     "loudness": -19.3,
+     "prosody": 0.54,
+     "speakingRate": 4.5,
+     "count": 1
+    },
+    {
+     "hour": 10,
+     "pitch": 115.5,
+     "loudness": -22.2,
+     "prosody": 0.38,
+     "speakingRate": 4.25,
+     "count": 4
+    },
+    {
+     "hour": 11,
+     "pitch": 113.3,
+     "loudness": -23.3,
+     "prosody": 0.38,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 109.9,
+     "loudness": -23,
+     "prosody": 0.33,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 112.7,
+     "loudness": -24.4,
+     "prosody": 0.39,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 113,
+     "loudness": -24.9,
+     "prosody": 0.31,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 112,
+     "loudness": -26.2,
+     "prosody": 0.35,
+     "speakingRate": 4.43,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 107.6,
+     "loudness": -26.4,
+     "prosody": 0.33,
+     "speakingRate": 3.25,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 112.4,
+     "loudness": -25.4,
+     "prosody": 0.38,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 110.9,
+     "loudness": -20.9,
+     "prosody": 0.37,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 109.8,
+     "loudness": -23.4,
+     "prosody": 0.43,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 112.6,
+     "loudness": -23.1,
+     "prosody": 0.29,
+     "speakingRate": 2.8,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 106.5,
+     "loudness": -27.1,
+     "prosody": 0.24,
+     "speakingRate": 2.6,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.36,
+   "meanPitch": 111.8
+  },
+  {
+   "date": "2026-05-30",
+   "day": "Sat",
+   "segmentCount": 22,
+   "emotionCounts": {
+    "tenderness": 2,
+    "love": 2,
+    "hope": 1,
+    "nostalgia": 1
+   },
+   "dominantEmotion": "tenderness",
+   "hourly": [
+    {
+     "hour": 8,
+     "pitch": 108,
+     "loudness": -25.3,
+     "prosody": 0.3,
+     "speakingRate": 3.55,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 113,
+     "loudness": -24.8,
+     "prosody": 0.34,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 112.8,
+     "loudness": -26,
+     "prosody": 0.4,
+     "speakingRate": 4.6,
+     "count": 1
+    },
+    {
+     "hour": 11,
+     "pitch": 107.7,
+     "loudness": -23.8,
+     "prosody": 0.31,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 111.5,
+     "loudness": -24.5,
+     "prosody": 0.39,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 102.7,
+     "loudness": -23.6,
+     "prosody": 0.3,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 107.4,
+     "loudness": -23.1,
+     "prosody": 0.48,
+     "speakingRate": 3.7,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 110.2,
+     "loudness": -24,
+     "prosody": 0.33,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 109.3,
+     "loudness": -23.5,
+     "prosody": 0.35,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 104.9,
+     "loudness": -23.6,
+     "prosody": 0.46,
+     "speakingRate": 3.6,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 107.5,
+     "loudness": -24.1,
+     "prosody": 0.36,
+     "speakingRate": 3.3,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 106.2,
+     "loudness": -26.1,
+     "prosody": 0.35,
+     "speakingRate": 3.55,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.36,
+   "meanPitch": 108.4
+  },
+  {
+   "date": "2026-05-31",
+   "day": "Sun",
+   "segmentCount": 23,
+   "emotionCounts": {
+    "determination": 2,
+    "hope": 2,
+    "excitement": 2,
+    "contentment": 1,
+    "love": 1,
+    "calmness": 1
+   },
+   "dominantEmotion": "determination",
+   "hourly": [
+    {
+     "hour": 9,
+     "pitch": 108,
+     "loudness": -24.5,
+     "prosody": 0.36,
+     "speakingRate": 4.03,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 113.9,
+     "loudness": -25.7,
+     "prosody": 0.35,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 11,
+     "pitch": 136.3,
+     "loudness": -18.7,
+     "prosody": 0.61,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 12,
+     "pitch": 105,
+     "loudness": -26,
+     "prosody": 0.39,
+     "speakingRate": 3.93,
+     "count": 3
+    },
+    {
+     "hour": 14,
+     "pitch": 119.8,
+     "loudness": -25.5,
+     "prosody": 0.4,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 111.3,
+     "loudness": -23.9,
+     "prosody": 0.3,
+     "speakingRate": 4.7,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 113.3,
+     "loudness": -22.9,
+     "prosody": 0.33,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 110.7,
+     "loudness": -23.2,
+     "prosody": 0.46,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 112.4,
+     "loudness": -23.6,
+     "prosody": 0.32,
+     "speakingRate": 3.8,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 112.4,
+     "loudness": -23.1,
+     "prosody": 0.35,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 121.9,
+     "loudness": -17.9,
+     "prosody": 0.63,
+     "speakingRate": 4.5,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 105.3,
+     "loudness": -26.7,
+     "prosody": 0.26,
+     "speakingRate": 3.6,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 102.2,
+     "loudness": -27.2,
+     "prosody": 0.21,
+     "speakingRate": 3.5,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.37,
+   "meanPitch": 111.9
+  },
+  {
+   "date": "2026-06-01",
+   "day": "Mon",
+   "segmentCount": 51,
+   "emotionCounts": {
+    "tiredness": 2,
+    "annoyance": 3,
+    "distress": 2,
+    "frustration": 4,
+    "confusion": 1,
+    "determination": 3,
+    "concentration": 1,
+    "hope": 2,
+    "interest": 1,
+    "excitement": 1,
+    "enthusiasm": 1
+   },
+   "dominantEmotion": "frustration",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 104.8,
+     "loudness": -27.4,
+     "prosody": 0.29,
+     "speakingRate": 3.2,
+     "count": 1
+    },
+    {
+     "hour": 7,
+     "pitch": 109.6,
+     "loudness": -24.8,
+     "prosody": 0.32,
+     "speakingRate": 4.25,
+     "count": 8
+    },
+    {
+     "hour": 8,
+     "pitch": 113.9,
+     "loudness": -23.6,
+     "prosody": 0.32,
+     "speakingRate": 4.6,
+     "count": 4
+    },
+    {
+     "hour": 9,
+     "pitch": 116,
+     "loudness": -20.9,
+     "prosody": 0.38,
+     "speakingRate": 4.44,
+     "count": 5
+    },
+    {
+     "hour": 10,
+     "pitch": 111.8,
+     "loudness": -21.2,
+     "prosody": 0.43,
+     "speakingRate": 4.55,
+     "count": 4
+    },
+    {
+     "hour": 11,
+     "pitch": 110,
+     "loudness": -23.3,
+     "prosody": 0.33,
+     "speakingRate": 4.3,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 111.8,
+     "loudness": -23.6,
+     "prosody": 0.4,
+     "speakingRate": 4.53,
+     "count": 4
+    },
+    {
+     "hour": 13,
+     "pitch": 115.1,
+     "loudness": -23.4,
+     "prosody": 0.39,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 14,
+     "pitch": 115.5,
+     "loudness": -24.7,
+     "prosody": 0.38,
+     "speakingRate": 4.17,
+     "count": 3
+    },
+    {
+     "hour": 15,
+     "pitch": 118.3,
+     "loudness": -21.4,
+     "prosody": 0.47,
+     "speakingRate": 4.47,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 115.9,
+     "loudness": -25.5,
+     "prosody": 0.37,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 17,
+     "pitch": 114.7,
+     "loudness": -24.6,
+     "prosody": 0.39,
+     "speakingRate": 4.07,
+     "count": 4
+    },
+    {
+     "hour": 18,
+     "pitch": 104.6,
+     "loudness": -23.9,
+     "prosody": 0.44,
+     "speakingRate": 3.4,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 113.3,
+     "loudness": -23.3,
+     "prosody": 0.36,
+     "speakingRate": 4.8,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 106.2,
+     "loudness": -24.5,
+     "prosody": 0.48,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 104.6,
+     "loudness": -23.8,
+     "prosody": 0.26,
+     "speakingRate": 4.15,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.37,
+   "meanPitch": 112.6
+  },
+  {
+   "date": "2026-06-02",
+   "day": "Tue",
+   "segmentCount": 40,
+   "emotionCounts": {
+    "relief": 2,
+    "amusement": 2,
+    "satisfaction": 1,
+    "contentment": 1,
+    "hope": 4,
+    "excitement": 2,
+    "enthusiasm": 1,
+    "joy": 1,
+    "frustration": 1,
+    "concentration": 2,
+    "determination": 4,
+    "anxiety": 4,
+    "distress": 1,
+    "fear": 1,
+    "tenderness": 1,
+    "love": 1,
+    "loneliness": 1
+   },
+   "dominantEmotion": "hope",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 104.3,
+     "loudness": -25.4,
+     "prosody": 0.34,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 7,
+     "pitch": 116.2,
+     "loudness": -23.4,
+     "prosody": 0.44,
+     "speakingRate": 4.5,
+     "count": 5
+    },
+    {
+     "hour": 8,
+     "pitch": 114.3,
+     "loudness": -23.1,
+     "prosody": 0.31,
+     "speakingRate": 4.17,
+     "count": 3
+    },
+    {
+     "hour": 9,
+     "pitch": 123,
+     "loudness": -23.1,
+     "prosody": 0.47,
+     "speakingRate": 4.53,
+     "count": 4
+    },
+    {
+     "hour": 10,
+     "pitch": 116,
+     "loudness": -21.6,
+     "prosody": 0.4,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 11,
+     "pitch": 114.5,
+     "loudness": -22.6,
+     "prosody": 0.46,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 115.1,
+     "loudness": -25.7,
+     "prosody": 0.36,
+     "speakingRate": 4.6,
+     "count": 3
+    },
+    {
+     "hour": 13,
+     "pitch": 111.8,
+     "loudness": -24.6,
+     "prosody": 0.34,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 104,
+     "loudness": -25.4,
+     "prosody": 0.3,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 115.5,
+     "loudness": -23.3,
+     "prosody": 0.38,
+     "speakingRate": 4.77,
+     "count": 3
+    },
+    {
+     "hour": 16,
+     "pitch": 119.7,
+     "loudness": -25.7,
+     "prosody": 0.28,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 122.5,
+     "loudness": -23.1,
+     "prosody": 0.43,
+     "speakingRate": 4.5,
+     "count": 3
+    },
+    {
+     "hour": 18,
+     "pitch": 109.3,
+     "loudness": -25.7,
+     "prosody": 0.37,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 19,
+     "pitch": 108.1,
+     "loudness": -26.4,
+     "prosody": 0.39,
+     "speakingRate": 4.2,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 120,
+     "loudness": -19.1,
+     "prosody": 0.48,
+     "speakingRate": 4.75,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 102,
+     "loudness": -27.3,
+     "prosody": 0.23,
+     "speakingRate": 3.35,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 123.5,
+     "loudness": -24.1,
+     "prosody": 0.56,
+     "speakingRate": 3.5,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.39,
+   "meanPitch": 114.9
+  },
+  {
+   "date": "2026-06-03",
+   "day": "Wed",
+   "segmentCount": 33,
+   "emotionCounts": {
+    "loneliness": 2,
+    "sadness": 2,
+    "tiredness": 3,
+    "frustration": 2,
+    "anxiety": 5,
+    "determination": 3,
+    "concentration": 1,
+    "relief": 1,
+    "satisfaction": 1,
+    "fear": 1,
+    "distress": 2,
+    "hope": 2,
+    "excitement": 1,
+    "tenderness": 2,
+    "gratitude": 1,
+    "love": 1
+   },
+   "dominantEmotion": "anxiety",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 99.4,
+     "loudness": -26.7,
+     "prosody": 0.23,
+     "speakingRate": 3.97,
+     "count": 3
+    },
+    {
+     "hour": 7,
+     "pitch": 111.4,
+     "loudness": -24.4,
+     "prosody": 0.24,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 8,
+     "pitch": 122.7,
+     "loudness": -21.2,
+     "prosody": 0.47,
+     "speakingRate": 4.85,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 123,
+     "loudness": -21.4,
+     "prosody": 0.43,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 113.2,
+     "loudness": -24,
+     "prosody": 0.36,
+     "speakingRate": 3.83,
+     "count": 3
+    },
+    {
+     "hour": 11,
+     "pitch": 125,
+     "loudness": -23.2,
+     "prosody": 0.39,
+     "speakingRate": 4.63,
+     "count": 3
+    },
+    {
+     "hour": 12,
+     "pitch": 113.1,
+     "loudness": -25.3,
+     "prosody": 0.3,
+     "speakingRate": 4.6,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 123.6,
+     "loudness": -22.6,
+     "prosody": 0.51,
+     "speakingRate": 4.9,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 115.4,
+     "loudness": -23.3,
+     "prosody": 0.33,
+     "speakingRate": 4.45,
+     "count": 2
+    },
+    {
+     "hour": 15,
+     "pitch": 102.9,
+     "loudness": -26.3,
+     "prosody": 0.23,
+     "speakingRate": 3.9,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 103.2,
+     "loudness": -25.9,
+     "prosody": 0.26,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 111.7,
+     "loudness": -22,
+     "prosody": 0.36,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 109.1,
+     "loudness": -23.5,
+     "prosody": 0.29,
+     "speakingRate": 3.95,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 110.6,
+     "loudness": -24.6,
+     "prosody": 0.29,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 112.9,
+     "loudness": -22.7,
+     "prosody": 0.43,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 135.2,
+     "loudness": -16.7,
+     "prosody": 0.68,
+     "speakingRate": 5.5,
+     "count": 1
+    },
+    {
+     "hour": 23,
+     "pitch": 95.9,
+     "loudness": -26.4,
+     "prosody": 0.33,
+     "speakingRate": 3.8,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.35,
+   "meanPitch": 113.6
+  },
+  {
+   "date": "2026-06-04",
+   "day": "Thu",
+   "segmentCount": 34,
+   "emotionCounts": {
+    "tiredness": 5,
+    "anxiety": 8,
+    "annoyance": 1,
+    "fear": 2,
+    "determination": 4,
+    "distress": 2,
+    "hope": 2,
+    "relief": 4,
+    "pride": 4,
+    "excitement": 1,
+    "joy": 3,
+    "gratitude": 5,
+    "satisfaction": 1,
+    "love": 2,
+    "tenderness": 2,
+    "contentment": 2
+   },
+   "dominantEmotion": "anxiety",
+   "hourly": [
+    {
+     "hour": 6,
+     "pitch": 115.5,
+     "loudness": -24.2,
+     "prosody": 0.41,
+     "speakingRate": 4.33,
+     "count": 3
+    },
+    {
+     "hour": 7,
+     "pitch": 116,
+     "loudness": -23,
+     "prosody": 0.43,
+     "speakingRate": 4.87,
+     "count": 3
+    },
+    {
+     "hour": 8,
+     "pitch": 122.7,
+     "loudness": -22.1,
+     "prosody": 0.45,
+     "speakingRate": 4.35,
+     "count": 2
+    },
+    {
+     "hour": 9,
+     "pitch": 111.5,
+     "loudness": -24.1,
+     "prosody": 0.34,
+     "speakingRate": 4.25,
+     "count": 2
+    },
+    {
+     "hour": 10,
+     "pitch": 122.8,
+     "loudness": -22.9,
+     "prosody": 0.49,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 115.3,
+     "loudness": -23.5,
+     "prosody": 0.28,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 133.9,
+     "loudness": -20.6,
+     "prosody": 0.56,
+     "speakingRate": 5.4,
+     "count": 1
+    },
+    {
+     "hour": 13,
+     "pitch": 116.1,
+     "loudness": -23.6,
+     "prosody": 0.34,
+     "speakingRate": 4.7,
+     "count": 1
+    },
+    {
+     "hour": 14,
+     "pitch": 136.4,
+     "loudness": -19,
+     "prosody": 0.51,
+     "speakingRate": 5.9,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 121.7,
+     "loudness": -19.9,
+     "prosody": 0.53,
+     "speakingRate": 4.5,
+     "count": 4
+    },
+    {
+     "hour": 16,
+     "pitch": 117.4,
+     "loudness": -21.5,
+     "prosody": 0.37,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 112.1,
+     "loudness": -23.5,
+     "prosody": 0.44,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 18,
+     "pitch": 110.2,
+     "loudness": -23.2,
+     "prosody": 0.37,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 111.6,
+     "loudness": -22.2,
+     "prosody": 0.31,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 106.8,
+     "loudness": -26.4,
+     "prosody": 0.47,
+     "speakingRate": 3.85,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 110,
+     "loudness": -21.5,
+     "prosody": 0.55,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 22,
+     "pitch": 100.8,
+     "loudness": -24,
+     "prosody": 0.44,
+     "speakingRate": 3.35,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.43,
+   "meanPitch": 115.8
+  },
+  {
+   "date": "2026-06-05",
+   "day": "Fri",
+   "segmentCount": 24,
+   "emotionCounts": {
+    "contentment": 3,
+    "relief": 2,
+    "gratitude": 1,
+    "hope": 3,
+    "excitement": 3,
+    "determination": 2,
+    "enthusiasm": 1,
+    "tenderness": 2,
+    "sadness": 1,
+    "love": 2,
+    "satisfaction": 1
+   },
+   "dominantEmotion": "contentment",
+   "hourly": [
+    {
+     "hour": 8,
+     "pitch": 116.5,
+     "loudness": -24.1,
+     "prosody": 0.35,
+     "speakingRate": 4.15,
+     "count": 4
+    },
+    {
+     "hour": 9,
+     "pitch": 104.8,
+     "loudness": -23.4,
+     "prosody": 0.3,
+     "speakingRate": 4.2,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 134.6,
+     "loudness": -18,
+     "prosody": 0.67,
+     "speakingRate": 5.1,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 108.8,
+     "loudness": -25.1,
+     "prosody": 0.33,
+     "speakingRate": 4.05,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 114,
+     "loudness": -23.7,
+     "prosody": 0.3,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 14,
+     "pitch": 111.8,
+     "loudness": -24.4,
+     "prosody": 0.4,
+     "speakingRate": 4.5,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 116.5,
+     "loudness": -23.8,
+     "prosody": 0.46,
+     "speakingRate": 4.55,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 115.8,
+     "loudness": -25,
+     "prosody": 0.36,
+     "speakingRate": 4.4,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 116.7,
+     "loudness": -24.2,
+     "prosody": 0.53,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 105.1,
+     "loudness": -23,
+     "prosody": 0.39,
+     "speakingRate": 4,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 118.1,
+     "loudness": -22.8,
+     "prosody": 0.32,
+     "speakingRate": 4.15,
+     "count": 2
+    },
+    {
+     "hour": 20,
+     "pitch": 111,
+     "loudness": -23.6,
+     "prosody": 0.65,
+     "speakingRate": 3.4,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 107.2,
+     "loudness": -26.9,
+     "prosody": 0.38,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 22,
+     "pitch": 112.5,
+     "loudness": -24,
+     "prosody": 0.43,
+     "speakingRate": 3.7,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.4,
+   "meanPitch": 114.4
+  },
+  {
+   "date": "2026-06-06",
+   "day": "Sat",
+   "segmentCount": 22,
+   "emotionCounts": {
+    "contentment": 3,
+    "relief": 1,
+    "gratitude": 1,
+    "tenderness": 6,
+    "nostalgia": 2,
+    "love": 4,
+    "anxiety": 1,
+    "sadness": 3,
+    "loneliness": 2,
+    "satisfaction": 1,
+    "determination": 1,
+    "hope": 1,
+    "excitement": 1
+   },
+   "dominantEmotion": "tenderness",
+   "hourly": [
+    {
+     "hour": 9,
+     "pitch": 110.6,
+     "loudness": -25.1,
+     "prosody": 0.4,
+     "speakingRate": 4.23,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 109.3,
+     "loudness": -23.5,
+     "prosody": 0.35,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 111.6,
+     "loudness": -23.4,
+     "prosody": 0.37,
+     "speakingRate": 4.65,
+     "count": 2
+    },
+    {
+     "hour": 12,
+     "pitch": 113.7,
+     "loudness": -22.4,
+     "prosody": 0.37,
+     "speakingRate": 4.1,
+     "count": 1
+    },
+    {
+     "hour": 13,
+     "pitch": 114,
+     "loudness": -22.7,
+     "prosody": 0.46,
+     "speakingRate": 4.3,
+     "count": 3
+    },
+    {
+     "hour": 14,
+     "pitch": 110.2,
+     "loudness": -25.8,
+     "prosody": 0.37,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 15,
+     "pitch": 110.1,
+     "loudness": -23,
+     "prosody": 0.42,
+     "speakingRate": 4.1,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 114.6,
+     "loudness": -23.2,
+     "prosody": 0.35,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 17,
+     "pitch": 104.1,
+     "loudness": -23.3,
+     "prosody": 0.59,
+     "speakingRate": 3.3,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 121.6,
+     "loudness": -23.6,
+     "prosody": 0.51,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 111.2,
+     "loudness": -23.8,
+     "prosody": 0.38,
+     "speakingRate": 3.5,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 126.6,
+     "loudness": -21.4,
+     "prosody": 0.38,
+     "speakingRate": 4.8,
+     "count": 1
+    },
+    {
+     "hour": 21,
+     "pitch": 109.6,
+     "loudness": -26.2,
+     "prosody": 0.24,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 22,
+     "pitch": 115.4,
+     "loudness": -21.2,
+     "prosody": 0.52,
+     "speakingRate": 3.6,
+     "count": 1
+    }
+   ],
+   "meanProsody": 0.41,
+   "meanPitch": 112.9
+  },
+  {
+   "date": "2026-06-07",
+   "day": "Sun",
+   "segmentCount": 23,
+   "emotionCounts": {
+    "contentment": 5,
+    "relief": 4,
+    "gratitude": 3,
+    "determination": 2,
+    "excitement": 4,
+    "hope": 3,
+    "joy": 2,
+    "satisfaction": 1,
+    "pride": 1,
+    "love": 6,
+    "tenderness": 2
+   },
+   "dominantEmotion": "love",
+   "hourly": [
+    {
+     "hour": 8,
+     "pitch": 103.3,
+     "loudness": -24.6,
+     "prosody": 0.36,
+     "speakingRate": 3.8,
+     "count": 1
+    },
+    {
+     "hour": 9,
+     "pitch": 123.3,
+     "loudness": -19.8,
+     "prosody": 0.59,
+     "speakingRate": 4.57,
+     "count": 3
+    },
+    {
+     "hour": 10,
+     "pitch": 111,
+     "loudness": -23.5,
+     "prosody": 0.42,
+     "speakingRate": 4.4,
+     "count": 2
+    },
+    {
+     "hour": 11,
+     "pitch": 107.5,
+     "loudness": -24.5,
+     "prosody": 0.27,
+     "speakingRate": 4.8,
+     "count": 1
+    },
+    {
+     "hour": 12,
+     "pitch": 111.6,
+     "loudness": -25.4,
+     "prosody": 0.41,
+     "speakingRate": 3.9,
+     "count": 2
+    },
+    {
+     "hour": 13,
+     "pitch": 118.2,
+     "loudness": -20.4,
+     "prosody": 0.46,
+     "speakingRate": 3.7,
+     "count": 1
+    },
+    {
+     "hour": 14,
+     "pitch": 126,
+     "loudness": -20.2,
+     "prosody": 0.54,
+     "speakingRate": 4.5,
+     "count": 2
+    },
+    {
+     "hour": 16,
+     "pitch": 116.2,
+     "loudness": -23.9,
+     "prosody": 0.53,
+     "speakingRate": 3.65,
+     "count": 2
+    },
+    {
+     "hour": 17,
+     "pitch": 116.5,
+     "loudness": -23.2,
+     "prosody": 0.37,
+     "speakingRate": 3.9,
+     "count": 1
+    },
+    {
+     "hour": 18,
+     "pitch": 104.7,
+     "loudness": -24.5,
+     "prosody": 0.38,
+     "speakingRate": 3.6,
+     "count": 2
+    },
+    {
+     "hour": 19,
+     "pitch": 106.8,
+     "loudness": -24,
+     "prosody": 0.22,
+     "speakingRate": 4,
+     "count": 1
+    },
+    {
+     "hour": 20,
+     "pitch": 105.7,
+     "loudness": -22.5,
+     "prosody": 0.41,
+     "speakingRate": 3.75,
+     "count": 2
+    },
+    {
+     "hour": 21,
+     "pitch": 97.6,
+     "loudness": -25.5,
+     "prosody": 0.43,
+     "speakingRate": 3.2,
+     "count": 1
+    },
+    {
+     "hour": 22,
+     "pitch": 101.9,
+     "loudness": -26.1,
+     "prosody": 0.38,
+     "speakingRate": 3.35,
+     "count": 2
+    }
+   ],
+   "meanProsody": 0.43,
+   "meanPitch": 111.9
+  }
+ ],
+ "intentions": [
+  {
+   "key": "dentist",
+   "label": "Book the dentist",
+   "segmentIds": [
+    "2026-05-12#003",
+    "2026-05-14#012",
+    "2026-05-14#015",
+    "2026-05-15#013",
+    "2026-05-15#014"
+   ],
+   "status": "kept"
+  },
+  {
+   "key": "protein",
+   "label": "Buy the protein stuff",
+   "segmentIds": [
+    "2026-05-11#016",
+    "2026-05-17#010",
+    "2026-05-17#011"
+   ],
+   "status": "drifting"
+  },
+  {
+   "key": "accountant",
+   "label": "Reschedule the accountant",
+   "segmentIds": [
+    "2026-05-11#019"
+   ],
+   "status": "dropped"
+  },
+  {
+   "key": "walks",
+   "label": "Walks to reset",
+   "segmentIds": [
+    "2026-05-11#025",
+    "2026-05-17#016",
+    "2026-05-23#009",
+    "2026-05-31#015",
+    "2026-06-01#045",
+    "2026-06-04#012",
+    "2026-06-06#004"
+   ],
+   "status": "kept"
+  },
+  {
+   "key": "groceries",
+   "label": "Groceries for the week",
+   "segmentIds": [
+    "2026-05-17#010",
+    "2026-05-17#011",
+    "2026-05-24#007",
+    "2026-05-24#008"
+   ],
+   "status": "kept"
+  },
+  {
+   "key": "earlyNights",
+   "label": "Earlier nights",
+   "segmentIds": [
+    "2026-05-12#027",
+    "2026-06-07#023"
+   ],
+   "status": "kept"
+  }
+ ],
+ "people": [
+  {
+   "key": "sam",
+   "name": "Sam",
+   "relation": "partner",
+   "segmentIds": [
+    "2026-05-11#028",
+    "2026-05-11#029",
+    "2026-05-11#030",
+    "2026-05-11#032",
+    "2026-05-12#028",
+    "2026-05-12#030",
+    "2026-05-13#028",
+    "2026-05-13#029",
+    "2026-05-13#030",
+    "2026-05-14#030",
+    "2026-05-14#031",
+    "2026-05-15#024",
+    "2026-05-15#025",
+    "2026-05-15#026",
+    "2026-05-16#001",
+    "2026-05-16#002",
+    "2026-05-16#003",
+    "2026-05-16#006",
+    "2026-05-16#010",
+    "2026-05-16#014",
+    "2026-05-16#020",
+    "2026-05-16#021",
+    "2026-05-17#002",
+    "2026-05-17#008",
+    "2026-05-17#009",
+    "2026-05-17#016",
+    "2026-05-17#017",
+    "2026-05-18#028",
+    "2026-05-18#029",
+    "2026-05-19#025",
+    "2026-05-19#026",
+    "2026-05-19#027",
+    "2026-05-20#031",
+    "2026-05-21#024",
+    "2026-05-21#025",
+    "2026-05-21#026",
+    "2026-05-22#027",
+    "2026-05-22#028",
+    "2026-05-22#029",
+    "2026-05-23#003",
+    "2026-05-23#004",
+    "2026-05-23#005",
+    "2026-05-23#007",
+    "2026-05-23#011",
+    "2026-05-23#015",
+    "2026-05-23#016",
+    "2026-05-23#018",
+    "2026-05-23#019",
+    "2026-05-23#021",
+    "2026-05-23#022",
+    "2026-05-24#009",
+    "2026-05-24#010",
+    "2026-05-24#013",
+    "2026-05-24#017",
+    "2026-05-24#018",
+    "2026-05-25#013",
+    "2026-05-25#023",
+    "2026-05-26#024",
+    "2026-05-26#025",
+    "2026-05-26#026",
+    "2026-05-27#025",
+    "2026-05-27#026",
+    "2026-05-29#020",
+    "2026-05-29#022",
+    "2026-05-29#028",
+    "2026-05-30#016",
+    "2026-05-30#017",
+    "2026-05-30#018",
+    "2026-05-31#002",
+    "2026-05-31#003",
+    "2026-05-31#008",
+    "2026-05-31#011",
+    "2026-05-31#012",
+    "2026-05-31#015",
+    "2026-05-31#016",
+    "2026-05-31#017",
+    "2026-05-31#020",
+    "2026-06-01#042",
+    "2026-06-02#008",
+    "2026-06-02#030",
+    "2026-06-02#034",
+    "2026-06-02#040",
+    "2026-06-03#001",
+    "2026-06-03#024",
+    "2026-06-04#025",
+    "2026-06-04#026",
+    "2026-06-04#034",
+    "2026-06-05#018",
+    "2026-06-05#022",
+    "2026-06-06#017",
+    "2026-06-06#018",
+    "2026-06-07#012",
+    "2026-06-07#013",
+    "2026-06-07#015",
+    "2026-06-07#016",
+    "2026-06-07#020"
+   ]
+  },
+  {
+   "key": "daniel",
+   "name": "Daniel",
+   "relation": "co-founder",
+   "segmentIds": [
+    "2026-05-11#004",
+    "2026-05-11#010",
+    "2026-05-12#009",
+    "2026-05-12#010",
+    "2026-05-12#013",
+    "2026-05-12#014",
+    "2026-05-13#003",
+    "2026-05-13#010",
+    "2026-05-13#022",
+    "2026-05-13#023",
+    "2026-05-13#025",
+    "2026-05-14#016",
+    "2026-05-15#008",
+    "2026-05-15#011",
+    "2026-05-18#008",
+    "2026-05-18#012",
+    "2026-05-22#020",
+    "2026-05-22#021",
+    "2026-05-23#004",
+    "2026-05-23#006",
+    "2026-05-24#004",
+    "2026-05-24#006",
+    "2026-05-27#016",
+    "2026-05-27#017",
+    "2026-05-29#017",
+    "2026-06-01#004",
+    "2026-06-01#016",
+    "2026-06-01#018",
+    "2026-06-01#025",
+    "2026-06-01#038",
+    "2026-06-02#014",
+    "2026-06-02#035",
+    "2026-06-03#020",
+    "2026-06-04#008",
+    "2026-06-04#013",
+    "2026-06-04#020",
+    "2026-06-04#024",
+    "2026-06-04#032",
+    "2026-06-05#008",
+    "2026-06-05#009",
+    "2026-06-05#013",
+    "2026-06-07#007"
+   ]
+  },
+  {
+   "key": "mira",
+   "name": "Mira",
+   "relation": "designer",
+   "segmentIds": [
+    "2026-05-11#024",
+    "2026-05-12#012",
+    "2026-05-13#012",
+    "2026-05-13#015",
+    "2026-05-14#023",
+    "2026-05-15#018",
+    "2026-05-15#019",
+    "2026-05-18#016",
+    "2026-05-18#017",
+    "2026-05-19#016",
+    "2026-05-19#018",
+    "2026-05-20#009",
+    "2026-05-20#010",
+    "2026-05-21#010",
+    "2026-05-21#011",
+    "2026-05-28#009",
+    "2026-05-28#010",
+    "2026-06-01#016",
+    "2026-06-01#021",
+    "2026-06-01#023",
+    "2026-06-01#040",
+    "2026-06-02#015",
+    "2026-06-02#024"
+   ]
+  },
+  {
+   "key": "adrian",
+   "name": "Adrian",
+   "relation": "prospective hire",
+   "segmentIds": [
+    "2026-05-11#022",
+    "2026-05-12#015",
+    "2026-05-13#016",
+    "2026-05-14#018",
+    "2026-05-15#015",
+    "2026-05-17#015",
+    "2026-05-22#011",
+    "2026-05-22#012",
+    "2026-05-22#013",
+    "2026-05-25#008",
+    "2026-05-28#013",
+    "2026-05-28#014",
+    "2026-05-29#013",
+    "2026-05-29#014",
+    "2026-05-30#019",
+    "2026-05-30#020",
+    "2026-05-31#004",
+    "2026-05-31#005",
+    "2026-05-31#006",
+    "2026-05-31#007",
+    "2026-05-31#020",
+    "2026-06-01#010",
+    "2026-06-01#019",
+    "2026-06-01#034",
+    "2026-06-01#048",
+    "2026-06-02#011",
+    "2026-06-02#013",
+    "2026-06-03#018",
+    "2026-06-05#006",
+    "2026-06-05#012",
+    "2026-06-05#022",
+    "2026-06-06#020",
+    "2026-06-07#003",
+    "2026-06-07#010"
+   ]
+  },
+  {
+   "key": "theo",
+   "name": "Theo",
+   "relation": "close friend",
+   "segmentIds": [
+    "2026-05-12#021",
+    "2026-05-12#022",
+    "2026-05-13#026",
+    "2026-05-13#027",
+    "2026-05-14#004",
+    "2026-05-14#024",
+    "2026-05-14#025",
+    "2026-05-14#026",
+    "2026-05-14#028",
+    "2026-05-14#029",
+    "2026-05-16#022",
+    "2026-05-17#012",
+    "2026-05-20#024",
+    "2026-05-20#025",
+    "2026-05-20#026",
+    "2026-05-20#027",
+    "2026-05-20#029",
+    "2026-05-20#031",
+    "2026-05-21#025",
+    "2026-05-21#026",
+    "2026-05-23#014",
+    "2026-05-23#015",
+    "2026-05-24#003",
+    "2026-05-24#007",
+    "2026-05-24#008",
+    "2026-05-24#011",
+    "2026-05-24#012",
+    "2026-05-24#013",
+    "2026-05-24#014",
+    "2026-05-24#015",
+    "2026-05-24#016",
+    "2026-05-24#018",
+    "2026-05-25#016",
+    "2026-05-25#017",
+    "2026-05-25#018",
+    "2026-05-28#019",
+    "2026-05-28#020",
+    "2026-05-28#021",
+    "2026-05-28#022",
+    "2026-05-28#024",
+    "2026-05-28#025",
+    "2026-05-28#026",
+    "2026-05-28#028",
+    "2026-05-29#001",
+    "2026-05-29#002",
+    "2026-05-29#003",
+    "2026-05-29#004",
+    "2026-05-29#005",
+    "2026-05-29#026",
+    "2026-05-29#027",
+    "2026-05-29#029",
+    "2026-05-30#002",
+    "2026-05-30#003",
+    "2026-05-30#004",
+    "2026-05-30#005",
+    "2026-05-30#006",
+    "2026-05-30#007",
+    "2026-06-05#015",
+    "2026-06-05#018",
+    "2026-06-05#022",
+    "2026-06-07#015"
+   ]
+  }
+ ],
+ "threads": [
+  {
+   "key": "fundraise",
+   "title": "The raise",
+   "description": "Deciding to fundraise: warm intros, the deck, investor meetings.",
+   "segmentIds": [
+    "2026-05-11#002",
+    "2026-05-11#003",
+    "2026-05-11#004",
+    "2026-05-11#007",
+    "2026-05-11#009",
+    "2026-05-11#010",
+    "2026-05-11#011",
+    "2026-05-11#012",
+    "2026-05-11#021",
+    "2026-05-11#029",
+    "2026-05-11#033",
+    "2026-05-12#009",
+    "2026-05-12#010",
+    "2026-05-12#013",
+    "2026-05-12#014",
+    "2026-05-12#031",
+    "2026-05-13#003",
+    "2026-05-13#005",
+    "2026-05-13#010",
+    "2026-05-13#016",
+    "2026-05-13#022",
+    "2026-05-13#023",
+    "2026-05-13#025",
+    "2026-05-14#013",
+    "2026-05-14#017",
+    "2026-05-14#019",
+    "2026-05-15#002",
+    "2026-05-15#003",
+    "2026-05-15#004",
+    "2026-05-15#005",
+    "2026-05-15#008",
+    "2026-05-15#012",
+    "2026-05-17#005",
+    "2026-05-17#006",
+    "2026-05-18#002",
+    "2026-05-18#004",
+    "2026-05-18#007",
+    "2026-05-18#008",
+    "2026-05-18#009",
+    "2026-05-18#010",
+    "2026-05-18#011",
+    "2026-05-18#013",
+    "2026-05-18#014",
+    "2026-05-18#020",
+    "2026-05-18#024",
+    "2026-05-18#025",
+    "2026-05-18#028",
+    "2026-05-18#029",
+    "2026-05-18#030",
+    "2026-05-18#031",
+    "2026-05-19#001",
+    "2026-05-19#002",
+    "2026-05-19#025",
+    "2026-05-19#026",
+    "2026-05-19#028",
+    "2026-05-20#011",
+    "2026-05-20#012",
+    "2026-05-21#002",
+    "2026-05-21#003",
+    "2026-05-21#027",
+    "2026-05-22#003",
+    "2026-05-22#004",
+    "2026-05-22#022",
+    "2026-05-22#030",
+    "2026-05-25#008",
+    "2026-05-25#011",
+    "2026-05-26#009",
+    "2026-05-26#015",
+    "2026-05-26#017",
+    "2026-05-26#018",
+    "2026-05-27#029",
+    "2026-05-28#011",
+    "2026-05-29#017",
+    "2026-05-31#021",
+    "2026-06-01#016",
+    "2026-06-03#020",
+    "2026-06-03#028",
+    "2026-06-04#003",
+    "2026-06-04#028",
+    "2026-06-04#029",
+    "2026-06-05#011",
+    "2026-06-07#018"
+   ]
+  },
+  {
+   "key": "battery",
+   "title": "The battery fix",
+   "description": "Four-hour battery life to a fixed BLE sleep cycle in one week.",
+   "segmentIds": [
+    "2026-05-11#006",
+    "2026-05-11#007",
+    "2026-05-11#018",
+    "2026-05-11#020",
+    "2026-05-11#031",
+    "2026-05-12#018",
+    "2026-05-12#020",
+    "2026-05-12#031",
+    "2026-05-13#003",
+    "2026-05-13#007",
+    "2026-05-13#031",
+    "2026-05-15#022"
+   ]
+  },
+  {
+   "key": "orb",
+   "title": "The orb",
+   "description": "Prototyping the breathing orb — the companion made visible.",
+   "segmentIds": [
+    "2026-05-11#014",
+    "2026-05-11#015",
+    "2026-05-11#017",
+    "2026-05-11#032",
+    "2026-05-11#033",
+    "2026-05-12#002",
+    "2026-05-12#004",
+    "2026-05-12#010",
+    "2026-05-12#011",
+    "2026-05-12#012",
+    "2026-05-12#013",
+    "2026-05-12#016",
+    "2026-05-12#017",
+    "2026-05-12#019",
+    "2026-05-12#023",
+    "2026-05-12#024",
+    "2026-05-12#025",
+    "2026-05-12#026",
+    "2026-05-12#028",
+    "2026-05-12#029",
+    "2026-05-12#031",
+    "2026-05-13#002",
+    "2026-05-13#019",
+    "2026-05-13#021",
+    "2026-05-13#029",
+    "2026-05-13#031",
+    "2026-05-13#032",
+    "2026-05-13#033",
+    "2026-05-14#003",
+    "2026-05-14#005",
+    "2026-05-14#007",
+    "2026-05-14#010",
+    "2026-05-14#011",
+    "2026-05-14#014",
+    "2026-05-14#020",
+    "2026-05-14#022",
+    "2026-05-14#023",
+    "2026-05-15#001",
+    "2026-05-15#006",
+    "2026-05-15#016",
+    "2026-05-15#017",
+    "2026-05-15#022",
+    "2026-05-16#021",
+    "2026-05-17#005",
+    "2026-05-19#004",
+    "2026-05-19#006",
+    "2026-05-19#014",
+    "2026-05-19#015",
+    "2026-05-20#005",
+    "2026-05-20#006",
+    "2026-05-20#007",
+    "2026-05-20#008",
+    "2026-05-20#010",
+    "2026-05-20#018",
+    "2026-05-20#020",
+    "2026-05-20#021",
+    "2026-05-21#004",
+    "2026-05-21#005",
+    "2026-05-21#006",
+    "2026-05-21#007",
+    "2026-05-21#008",
+    "2026-05-21#009",
+    "2026-05-21#010",
+    "2026-05-21#016",
+    "2026-05-22#016",
+    "2026-05-22#017",
+    "2026-05-25#006",
+    "2026-05-25#007",
+    "2026-05-26#008",
+    "2026-05-26#028",
+    "2026-05-27#002",
+    "2026-05-27#005",
+    "2026-05-27#006",
+    "2026-05-27#007",
+    "2026-05-27#008",
+    "2026-05-27#017",
+    "2026-05-27#018",
+    "2026-05-27#029",
+    "2026-05-28#008",
+    "2026-05-29#010",
+    "2026-05-29#011",
+    "2026-05-29#012",
+    "2026-05-29#015",
+    "2026-05-29#016",
+    "2026-05-29#017",
+    "2026-05-30#010",
+    "2026-05-30#011",
+    "2026-05-31#013",
+    "2026-05-31#020",
+    "2026-06-01#004",
+    "2026-06-01#014",
+    "2026-06-01#016",
+    "2026-06-01#026",
+    "2026-06-01#041",
+    "2026-06-02#002",
+    "2026-06-02#006",
+    "2026-06-03#004",
+    "2026-06-03#013",
+    "2026-06-04#009"
+   ]
+  },
+  {
+   "key": "hiring",
+   "title": "Hiring Adrian",
+   "description": "Courting the dream engineering hire, from outreach to the yes.",
+   "segmentIds": [
+    "2026-05-11#021",
+    "2026-05-11#022",
+    "2026-05-11#033",
+    "2026-05-12#015",
+    "2026-05-13#003",
+    "2026-05-13#016",
+    "2026-05-14#018",
+    "2026-05-15#015",
+    "2026-05-17#015",
+    "2026-05-18#021",
+    "2026-05-19#019",
+    "2026-05-19#020",
+    "2026-05-20#022",
+    "2026-05-20#023",
+    "2026-05-22#011",
+    "2026-05-22#012",
+    "2026-05-22#013",
+    "2026-05-22#024",
+    "2026-05-25#008",
+    "2026-05-28#013",
+    "2026-05-28#014",
+    "2026-05-29#013",
+    "2026-05-29#014",
+    "2026-05-30#019",
+    "2026-05-30#020",
+    "2026-05-31#004",
+    "2026-05-31#005",
+    "2026-05-31#006",
+    "2026-05-31#007",
+    "2026-05-31#020",
+    "2026-06-01#010",
+    "2026-06-01#019",
+    "2026-06-01#034",
+    "2026-06-01#045",
+    "2026-06-01#048",
+    "2026-06-02#011",
+    "2026-06-02#013",
+    "2026-06-02#021",
+    "2026-06-03#018",
+    "2026-06-05#006",
+    "2026-06-05#012",
+    "2026-06-05#022",
+    "2026-06-06#019",
+    "2026-06-06#020",
+    "2026-06-06#021",
+    "2026-06-07#003",
+    "2026-06-07#010",
+    "2026-06-07#015"
+   ]
+  },
+  {
+   "key": "demo",
+   "title": "The June 4 demo",
+   "description": "Nine days of ruthless focus, a cracked seam, and demo day itself.",
+   "segmentIds": [
+    "2026-05-11#003",
+    "2026-05-11#012",
+    "2026-05-13#010",
+    "2026-05-14#011",
+    "2026-05-14#016",
+    "2026-05-15#017",
+    "2026-05-15#019",
+    "2026-05-17#005",
+    "2026-05-17#006",
+    "2026-05-17#021",
+    "2026-05-17#022",
+    "2026-05-18#008",
+    "2026-05-19#001",
+    "2026-05-19#002",
+    "2026-05-19#004",
+    "2026-05-19#006",
+    "2026-05-19#010",
+    "2026-05-21#006",
+    "2026-05-21#007",
+    "2026-05-21#010",
+    "2026-05-21#011",
+    "2026-05-22#008",
+    "2026-05-22#014",
+    "2026-05-22#015",
+    "2026-05-22#020",
+    "2026-05-22#021",
+    "2026-05-22#022",
+    "2026-05-23#018",
+    "2026-05-23#019",
+    "2026-05-24#019",
+    "2026-05-24#021",
+    "2026-05-25#001",
+    "2026-05-25#004",
+    "2026-05-25#005",
+    "2026-05-25#006",
+    "2026-05-25#007",
+    "2026-05-25#008",
+    "2026-05-26#004",
+    "2026-05-26#005",
+    "2026-05-26#006",
+    "2026-05-26#007",
+    "2026-05-26#009",
+    "2026-05-26#015",
+    "2026-05-26#016",
+    "2026-05-26#019",
+    "2026-05-26#020",
+    "2026-05-26#024",
+    "2026-05-26#025",
+    "2026-05-27#001",
+    "2026-05-27#002",
+    "2026-05-27#008",
+    "2026-05-27#010",
+    "2026-05-27#011",
+    "2026-05-27#012",
+    "2026-05-27#013",
+    "2026-05-27#014",
+    "2026-05-27#015",
+    "2026-05-27#016",
+    "2026-05-27#017",
+    "2026-05-27#019",
+    "2026-05-27#020",
+    "2026-05-27#021",
+    "2026-05-27#022",
+    "2026-05-27#023",
+    "2026-05-27#024",
+    "2026-05-27#025",
+    "2026-05-27#026",
+    "2026-05-27#027",
+    "2026-05-27#028",
+    "2026-05-27#029",
+    "2026-05-28#001",
+    "2026-05-28#002",
+    "2026-05-28#003",
+    "2026-05-28#004",
+    "2026-05-28#005",
+    "2026-05-28#006",
+    "2026-05-28#007",
+    "2026-05-28#008",
+    "2026-05-28#010",
+    "2026-05-28#013",
+    "2026-05-28#014",
+    "2026-05-28#015",
+    "2026-05-28#016",
+    "2026-05-28#017",
+    "2026-05-28#018",
+    "2026-05-28#026",
+    "2026-05-28#027",
+    "2026-05-28#028",
+    "2026-05-29#001",
+    "2026-05-29#002",
+    "2026-05-29#003",
+    "2026-05-29#006",
+    "2026-05-29#007",
+    "2026-05-29#009",
+    "2026-05-29#010",
+    "2026-05-29#013",
+    "2026-05-29#014",
+    "2026-05-29#015",
+    "2026-05-29#016",
+    "2026-05-29#018",
+    "2026-05-29#019",
+    "2026-05-29#020",
+    "2026-05-29#021",
+    "2026-05-29#022",
+    "2026-05-29#025",
+    "2026-05-29#028",
+    "2026-05-29#029",
+    "2026-05-30#001",
+    "2026-05-30#006",
+    "2026-05-30#007",
+    "2026-05-30#010",
+    "2026-05-30#011",
+    "2026-05-30#012",
+    "2026-05-30#014",
+    "2026-05-30#015",
+    "2026-05-30#016",
+    "2026-05-30#017",
+    "2026-05-30#019",
+    "2026-05-30#020",
+    "2026-05-31#001",
+    "2026-05-31#004",
+    "2026-05-31#005",
+    "2026-05-31#009",
+    "2026-05-31#010",
+    "2026-05-31#013",
+    "2026-05-31#015",
+    "2026-05-31#016",
+    "2026-05-31#017",
+    "2026-05-31#018",
+    "2026-05-31#019",
+    "2026-05-31#020",
+    "2026-06-01#004",
+    "2026-06-01#005",
+    "2026-06-01#007",
+    "2026-06-01#008",
+    "2026-06-01#014",
+    "2026-06-01#015",
+    "2026-06-01#017",
+    "2026-06-01#022",
+    "2026-06-01#025",
+    "2026-06-01#028",
+    "2026-06-01#030",
+    "2026-06-01#041",
+    "2026-06-01#043",
+    "2026-06-01#045",
+    "2026-06-01#047",
+    "2026-06-02#004",
+    "2026-06-02#009",
+    "2026-06-02#013",
+    "2026-06-02#018",
+    "2026-06-02#025",
+    "2026-06-02#036",
+    "2026-06-02#038",
+    "2026-06-03#002",
+    "2026-06-03#008",
+    "2026-06-03#011",
+    "2026-06-03#018",
+    "2026-06-03#021",
+    "2026-06-05#006",
+    "2026-06-05#010",
+    "2026-06-06#002",
+    "2026-06-06#007",
+    "2026-06-07#015"
+   ]
+  },
+  {
+   "key": "sam",
+   "title": "Life with Sam",
+   "description": "Dinners, walks, a week apart — the home that holds the rest together.",
+   "segmentIds": [
+    "2026-05-11#028",
+    "2026-05-11#029",
+    "2026-05-11#030",
+    "2026-05-11#032",
+    "2026-05-12#028",
+    "2026-05-12#030",
+    "2026-05-13#028",
+    "2026-05-13#029",
+    "2026-05-13#030",
+    "2026-05-14#030",
+    "2026-05-14#031",
+    "2026-05-15#024",
+    "2026-05-15#025",
+    "2026-05-15#026",
+    "2026-05-16#001",
+    "2026-05-16#002",
+    "2026-05-16#003",
+    "2026-05-16#006",
+    "2026-05-16#010",
+    "2026-05-16#014",
+    "2026-05-16#020",
+    "2026-05-16#021",
+    "2026-05-17#002",
+    "2026-05-17#008",
+    "2026-05-17#009",
+    "2026-05-17#016",
+    "2026-05-17#017",
+    "2026-05-18#028",
+    "2026-05-18#029",
+    "2026-05-19#025",
+    "2026-05-19#026",
+    "2026-05-19#027",
+    "2026-05-20#031",
+    "2026-05-21#024",
+    "2026-05-21#025",
+    "2026-05-21#026",
+    "2026-05-22#027",
+    "2026-05-22#028",
+    "2026-05-22#029",
+    "2026-05-23#003",
+    "2026-05-23#004",
+    "2026-05-23#005",
+    "2026-05-23#007",
+    "2026-05-23#011",
+    "2026-05-23#015",
+    "2026-05-23#016",
+    "2026-05-23#018",
+    "2026-05-23#019",
+    "2026-05-23#021",
+    "2026-05-23#022",
+    "2026-05-24#009",
+    "2026-05-24#010",
+    "2026-05-24#013",
+    "2026-05-24#017",
+    "2026-05-24#018",
+    "2026-05-25#013",
+    "2026-05-25#023",
+    "2026-05-26#024",
+    "2026-05-26#025",
+    "2026-05-26#026",
+    "2026-05-27#025",
+    "2026-05-27#026",
+    "2026-05-29#020",
+    "2026-05-29#022",
+    "2026-05-29#028",
+    "2026-05-30#016",
+    "2026-05-30#017",
+    "2026-05-30#018",
+    "2026-05-31#002",
+    "2026-05-31#003",
+    "2026-05-31#008",
+    "2026-05-31#011",
+    "2026-05-31#012",
+    "2026-05-31#015",
+    "2026-05-31#016",
+    "2026-05-31#017",
+    "2026-05-31#020",
+    "2026-06-01#042",
+    "2026-06-02#008",
+    "2026-06-02#030",
+    "2026-06-02#034",
+    "2026-06-02#040",
+    "2026-06-03#001",
+    "2026-06-03#024",
+    "2026-06-04#025",
+    "2026-06-04#026",
+    "2026-06-04#034",
+    "2026-06-05#018",
+    "2026-06-05#022",
+    "2026-06-06#017",
+    "2026-06-06#018",
+    "2026-06-07#012",
+    "2026-06-07#013",
+    "2026-06-07#015",
+    "2026-06-07#016",
+    "2026-06-07#020"
+   ]
+  },
+  {
+   "key": "theo",
+   "title": "Being there for Theo",
+   "description": "A friend's breakup, and learning that showing up is the product.",
+   "segmentIds": [
+    "2026-05-12#021",
+    "2026-05-12#022",
+    "2026-05-13#026",
+    "2026-05-13#027",
+    "2026-05-14#004",
+    "2026-05-14#024",
+    "2026-05-14#025",
+    "2026-05-14#026",
+    "2026-05-14#028",
+    "2026-05-14#029",
+    "2026-05-16#022",
+    "2026-05-17#012",
+    "2026-05-20#024",
+    "2026-05-20#025",
+    "2026-05-20#026",
+    "2026-05-20#027",
+    "2026-05-20#029",
+    "2026-05-20#031",
+    "2026-05-21#025",
+    "2026-05-21#026",
+    "2026-05-23#014",
+    "2026-05-23#015",
+    "2026-05-24#003",
+    "2026-05-24#007",
+    "2026-05-24#008",
+    "2026-05-24#011",
+    "2026-05-24#012",
+    "2026-05-24#013",
+    "2026-05-24#014",
+    "2026-05-24#015",
+    "2026-05-24#016",
+    "2026-05-24#018",
+    "2026-05-25#016",
+    "2026-05-25#017",
+    "2026-05-25#018",
+    "2026-05-28#019",
+    "2026-05-28#020",
+    "2026-05-28#021",
+    "2026-05-28#022",
+    "2026-05-28#024",
+    "2026-05-28#025",
+    "2026-05-28#026",
+    "2026-05-28#028",
+    "2026-05-29#001",
+    "2026-05-29#002",
+    "2026-05-29#003",
+    "2026-05-29#004",
+    "2026-05-29#005",
+    "2026-05-29#026",
+    "2026-05-29#027",
+    "2026-05-29#029",
+    "2026-05-30#002",
+    "2026-05-30#003",
+    "2026-05-30#004",
+    "2026-05-30#005",
+    "2026-05-30#006",
+    "2026-05-30#007",
+    "2026-06-05#015",
+    "2026-06-05#018",
+    "2026-06-05#022",
+    "2026-06-07#015"
+   ]
+  }
+ ],
+ "weeks": [
+  {
+   "index": 0,
+   "start": "2026-05-11",
+   "end": "2026-05-17",
+   "dates": [
+    "2026-05-11",
+    "2026-05-12",
+    "2026-05-13",
+    "2026-05-14",
+    "2026-05-15",
+    "2026-05-16",
+    "2026-05-17"
+   ]
+  },
+  {
+   "index": 1,
+   "start": "2026-05-18",
+   "end": "2026-05-24",
+   "dates": [
+    "2026-05-18",
+    "2026-05-19",
+    "2026-05-20",
+    "2026-05-21",
+    "2026-05-22",
+    "2026-05-23",
+    "2026-05-24"
+   ]
+  },
+  {
+   "index": 2,
+   "start": "2026-05-25",
+   "end": "2026-05-31",
+   "dates": [
+    "2026-05-25",
+    "2026-05-26",
+    "2026-05-27",
+    "2026-05-28",
+    "2026-05-29",
+    "2026-05-30",
+    "2026-05-31"
+   ]
+  },
+  {
+   "index": 3,
+   "start": "2026-06-01",
+   "end": "2026-06-07",
+   "dates": [
+    "2026-06-01",
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-06",
+    "2026-06-07"
+   ]
+  }
+ ]
+}

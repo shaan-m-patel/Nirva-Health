@@ -1,0 +1,56 @@
+@import 'tailwindcss';
+
+@theme {
+  /* nirva design tokens — see docs/01-product-spec.md */
+  --font-display: 'Sora', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Manrope', ui-sans-serif, system-ui, sans-serif;
+  --font-letter: 'Lora', ui-serif, Georgia, serif;
+
+  --color-base: #fafbfc;
+  --color-mist: #f1f5fb;
+  --color-sky-pale: #dbeafe;
+  --color-sky-soft: #bfdbfe;
+  --color-sky-mid: #93c5fd;
+  --color-deep: #1d4ed8;
+
+  --animate-breathe: breathe 2.6s ease-in-out infinite;
+
+  @keyframes breathe {
+    0%,
+    100% {
+      opacity: 0.35;
+      transform: scale(0.96);
+    }
+    50% {
+      opacity: 0.9;
+      transform: scale(1);
+    }
+  }
+}
+
+body {
+  @apply bg-base font-sans text-slate-700 antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  @apply font-display tracking-wide;
+}
+
+/* Gentle page transition (fade + slight rise) applied by PageTransition */
+.page-enter {
+  animation: page-in 0.45s ease both;
+}
+
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
