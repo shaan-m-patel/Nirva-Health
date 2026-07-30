@@ -27,18 +27,21 @@ export default function NavBar() {
         scrolled ? 'border-b border-slate-100 bg-white/70 backdrop-blur-md' : 'bg-transparent'
       }`}
     >
-      <nav className="mx-auto flex w-full max-w-5xl items-center justify-between px-6 py-4">
-        <NavLink to="/" className="font-display text-lg font-medium lowercase tracking-[0.2em] text-slate-700">
+      <nav className="mx-auto flex w-full max-w-5xl items-center justify-between px-3 py-4 sm:px-6">
+        <NavLink
+          to="/"
+          className="font-display text-base font-medium lowercase tracking-[0.14em] text-slate-700 sm:text-lg sm:tracking-[0.2em]"
+        >
           nirva
         </NavLink>
-        <div className="flex items-center gap-1 sm:gap-2">
+        <div className="flex items-center gap-0.5 sm:gap-2">
           {links.map(({ label, to, match }) => (
             <NavLink
               key={label}
               to={to}
               className={({ isActive }) => {
                 const active = isActive || pathname.startsWith(match);
-                return `rounded-full px-3 py-1.5 text-sm lowercase transition-colors duration-200 sm:px-4 ${
+                return `rounded-full px-2 py-1.5 text-[13px] lowercase transition-colors duration-200 sm:px-4 sm:text-sm ${
                   active
                     ? 'bg-sky-pale/70 text-deep'
                     : 'text-slate-500 hover:bg-mist hover:text-slate-700'

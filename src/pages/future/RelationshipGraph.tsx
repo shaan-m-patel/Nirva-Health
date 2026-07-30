@@ -113,7 +113,7 @@ export default function RelationshipGraph() {
 
   return (
     <div className="flex flex-col gap-4 lg:flex-row">
-      <div className="h-[460px] flex-1 overflow-hidden rounded-2xl border border-slate-100 bg-white shadow-[0_1px_12px_rgba(148,163,184,0.08)]">
+      <div className="h-[380px] overflow-hidden rounded-2xl border border-slate-100 bg-white shadow-[0_1px_12px_rgba(148,163,184,0.08)] sm:h-[460px] lg:flex-1">
         <ReactFlow
           nodes={nodes}
           edges={edges}
