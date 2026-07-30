@@ -1,5 +1,5 @@
-import { lazy, Suspense } from 'react';
-import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import { lazy, Suspense, useEffect } from 'react';
+import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import { DataProvider } from './DataProvider';
 import NavBar from './components/NavBar';
 import BreathingLoader from './components/BreathingLoader';
@@ -14,6 +14,12 @@ const ComingSoon = lazy(() => import('./pages/ComingSoon'));
 
 function AppRoutes() {
   const location = useLocation();
+
+  // Land at the top of each page; in-page anchors (?seg=) handle their own scroll.
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   return (
     <PageTransition transitionKey={location.pathname}>
       <Suspense fallback={<BreathingLoader label="loading" />}>
@@ -36,9 +42,23 @@ export default function App() {
     <DataProvider>
       <BrowserRouter>
         <NavBar />
-        <main className="mx-auto w-full max-w-5xl px-6 pt-28 pb-20">
+        <main className="mx-auto w-full max-w-5xl px-6 pt-28 pb-16">
           <AppRoutes />
         </main>
+        <footer className="mx-auto w-full max-w-5xl px-6 pb-10">
+          <div className="border-t border-slate-100 pt-6 text-center text-xs leading-relaxed text-slate-400">
+            <p>a month, witnessed — every word here comes from your own voice.</p>
+            <p className="mt-1">
+              your data stays in this browser ·{' '}
+              <Link
+                to="/future"
+                className="underline decoration-slate-200 underline-offset-2 transition-colors hover:text-slate-600"
+              >
+                export or erase it anytime
+              </Link>
+            </p>
+          </div>
+        </footer>
       </BrowserRouter>
     </DataProvider>
   );

@@ -32,11 +32,34 @@ body {
   @apply bg-base font-sans text-slate-700 antialiased;
 }
 
+/* Ambient wash — a still-water nod to the brand, kept just barely visible. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(1100px 520px at 50% -180px, rgba(219, 234, 254, 0.5), transparent 70%),
+    radial-gradient(900px 460px at 88% 4%, rgba(241, 245, 251, 0.85), transparent 65%),
+    radial-gradient(760px 420px at 6% 34%, rgba(219, 234, 254, 0.16), transparent 70%);
+}
+
 h1,
 h2,
 h3,
 h4 {
   @apply font-display tracking-wide;
+  text-wrap: balance;
+}
+
+::selection {
+  background: var(--color-sky-pale);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-sky-mid);
+  outline-offset: 2px;
 }
 
 /* Gentle page transition (fade + slight rise) applied by PageTransition */
@@ -52,5 +75,15 @@ h4 {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-enter {
+    animation: none;
+  }
+  .animate-breathe {
+    animation: none;
+    opacity: 0.7;
   }
 }

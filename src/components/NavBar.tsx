@@ -30,8 +30,13 @@ export default function NavBar() {
       <nav className="mx-auto flex w-full max-w-5xl items-center justify-between px-3 py-4 sm:px-6">
         <NavLink
           to="/"
-          className="font-display text-base font-medium lowercase tracking-[0.14em] text-slate-700 sm:text-lg sm:tracking-[0.2em]"
+          className="flex items-center gap-2 font-display text-base font-medium lowercase tracking-[0.14em] text-slate-700 sm:text-lg sm:tracking-[0.2em]"
         >
+          <span
+            className="h-2 w-2 rounded-full"
+            style={{ background: 'radial-gradient(circle at 40% 35%, #dbeafe, #93c5fd)' }}
+            aria-hidden
+          />
           nirva
         </NavLink>
         <div className="flex items-center gap-0.5 sm:gap-2">
