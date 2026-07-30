@@ -185,6 +185,7 @@ export async function getAllEmbeddings(): Promise<Map<string, number[]>>;
 export async function putEmbeddings(entries: [string, number[]][]): Promise<void>;
 export async function exportAll(): Promise<Blob>;         // full JSON dump (segments + derived + IDB contents)
 export async function hardDelete(): Promise<void>;        // deletes the DB + clears nirva_* localStorage keys
+export async function getMemoryStats(): Promise<MemoryStats>; // keys-only counts (embeddings, digests, letters, chat) for the Memory Explainer
 ```
 Generation cache keys: `daily:2026-05-11`, `weekly:0`; chat turns are not cached (but history persists in `chatHistory`).
 

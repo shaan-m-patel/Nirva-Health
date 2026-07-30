@@ -89,6 +89,31 @@ export async function clearChatHistory(): Promise<void> {
   await (await getDatabase()).clear('chatHistory');
 }
 
+export interface MemoryStats {
+  embeddings: number;
+  digests: number;
+  dailyLetters: number;
+  weeklyLetters: number;
+  chatMessages: number;
+}
+
+/** Keys-only counts of what memory holds right now — used by the Memory Explainer. */
+export async function getMemoryStats(): Promise<MemoryStats> {
+  const database = await getDatabase();
+  const [embeddings, generationKeys, chatMessages] = await Promise.all([
+    database.count('embeddings'),
+    database.getAllKeys('generations'),
+    database.count('chatHistory'),
+  ]);
+  return {
+    embeddings,
+    digests: generationKeys.filter((key) => key.startsWith('digest:')).length,
+    dailyLetters: generationKeys.filter((key) => key.startsWith('daily:')).length,
+    weeklyLetters: generationKeys.filter((key) => key.startsWith('weekly:')).length,
+    chatMessages,
+  };
+}
+
 export async function exportAll(): Promise<Blob> {
   const database = await getDatabase();
   const [embeddingKeys, embeddingValues, generationKeys, generationValues, chatHistory] =
